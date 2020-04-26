@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/solar-system/static/css/main.fd798a83.chunk.css",
-    "main.js": "/solar-system/static/js/main.66e1e8ba.chunk.js",
-    "main.js.map": "/solar-system/static/js/main.66e1e8ba.chunk.js.map",
-    "runtime-main.js": "/solar-system/static/js/runtime-main.2dd6e4a1.js",
-    "runtime-main.js.map": "/solar-system/static/js/runtime-main.2dd6e4a1.js.map",
-    "static/js/2.e2613277.chunk.js": "/solar-system/static/js/2.e2613277.chunk.js",
-    "static/js/2.e2613277.chunk.js.map": "/solar-system/static/js/2.e2613277.chunk.js.map",
+    "main.css": "/solar-system/static/css/main.bb38a720.chunk.css",
+    "main.js": "/solar-system/static/js/main.658932df.chunk.js",
+    "main.js.map": "/solar-system/static/js/main.658932df.chunk.js.map",
+    "runtime-main.js": "/solar-system/static/js/runtime-main.ae600961.js",
+    "runtime-main.js.map": "/solar-system/static/js/runtime-main.ae600961.js.map",
+    "static/js/2.0d5c8ef3.chunk.js": "/solar-system/static/js/2.0d5c8ef3.chunk.js",
+    "static/js/2.0d5c8ef3.chunk.js.map": "/solar-system/static/js/2.0d5c8ef3.chunk.js.map",
     "index.html": "/solar-system/index.html",
-    "precache-manifest.a806459c90ad8f89f096e9f6e88e6d8a.js": "/solar-system/precache-manifest.a806459c90ad8f89f096e9f6e88e6d8a.js",
+    "precache-manifest.b8c11cac0e77a19ec9472b238491c86a.js": "/solar-system/precache-manifest.b8c11cac0e77a19ec9472b238491c86a.js",
     "service-worker.js": "/solar-system/service-worker.js",
-    "static/css/main.fd798a83.chunk.css.map": "/solar-system/static/css/main.fd798a83.chunk.css.map",
-    "static/js/2.e2613277.chunk.js.LICENSE.txt": "/solar-system/static/js/2.e2613277.chunk.js.LICENSE.txt",
+    "static/css/main.bb38a720.chunk.css.map": "/solar-system/static/css/main.bb38a720.chunk.css.map",
+    "static/js/2.0d5c8ef3.chunk.js.LICENSE.txt": "/solar-system/static/js/2.0d5c8ef3.chunk.js.LICENSE.txt",
     "static/media/bright_stars.csv": "/solar-system/static/media/bright_stars.2177dbd4.csv",
-    "static/media/logo.svg": "/solar-system/static/media/logo.c9583e38.svg",
     "static/media/star.svg": "/solar-system/static/media/star.85baf2a7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2dd6e4a1.js",
-    "static/js/2.e2613277.chunk.js",
-    "static/css/main.fd798a83.chunk.css",
-    "static/js/main.66e1e8ba.chunk.js"
+    "static/js/runtime-main.ae600961.js",
+    "static/js/2.0d5c8ef3.chunk.js",
+    "static/css/main.bb38a720.chunk.css",
+    "static/js/main.658932df.chunk.js"
   ]
 }
